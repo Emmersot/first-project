@@ -12,7 +12,7 @@ By Tyler Emmerson
 
 ## Description 
 
-A showcase of my skill set so far as a programming portfolio.
+A showcase of my ability to use HTML, CSS, Git
 
 ## Setup/Installation Requirements
 
