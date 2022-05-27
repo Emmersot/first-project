@@ -1,0 +1,26 @@
+# My First Project
+By Tyler Emmerson
+
+## Technologies Used
+
+* HTML
+* Markdown
+* CSS
+* Github
+
+## Description 
+
+A showcase of my skill set so far as a programming portfolio.
+
+## Setup/Installation Requirements
+
+1. Clone this repository to your desktop.
+2. Navigate to the top level of directory.
+3. Open *index.html* in your browser.
+
+# Known Bugs
+
+
+## License
+<p><a href="LICENSE.txt">MIT</a></p>
+Copyright(c) 2022 Tyler Emmerson
