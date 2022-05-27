@@ -1,6 +1,10 @@
 # My First Project
 By Tyler Emmerson
 
+## Description 
+
+A showcase of my ability to use HTML, CSS, Git
+
 ## Technologies Used
 
 * HTML
@@ -10,9 +14,11 @@ By Tyler Emmerson
 * GitBash
 * Paint
 
-## Description 
 
-A showcase of my ability to use HTML, CSS, Git
+
+## GitHub Page Links
+
+*
 
 ## Setup/Installation Requirements
 
