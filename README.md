@@ -7,6 +7,8 @@ By Tyler Emmerson
 * Markdown
 * CSS
 * Github
+* GitBash
+* Paint
 
 ## Description 
 
