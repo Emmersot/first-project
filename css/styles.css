@@ -7,3 +7,50 @@ bottom: 0;
 
 }
 
+.li {
+  color:rgb(0, 0, 0);
+}
+
+.center { 
+  list-style-position: left; 
+  text-align: left;
+  border: 3px solid lightslategrey;
+  padding: 5px;
+  background-color: lightcyan;
+  margin:auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  box-sizing: content-box;
+  width: 6%;
+  display: block;
+  color: rgb(255, 255, 255)
+
+}
+
+.interior {
+
+}
+
+.
+h1 {
+  color: blue;
+  text-align: center;
+}
+
+h2 {
+  font-style: italic;
+  text-align: center;
+  color: teal;
+}
+
+p {
+  color: gray;
+}
+
+body {
+  background-color: lightblue;
+}
+
+.top-bar {
+  border-top: 5px solid red;
+}
