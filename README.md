@@ -18,7 +18,7 @@ A showcase of my ability to use HTML, CSS, Git
 
 ## GitHub Page Links
 
-*
+*Emmersot.github.io/portfolio
 
 ## Setup/Installation Requirements
 
@@ -28,6 +28,7 @@ A showcase of my ability to use HTML, CSS, Git
 
 # Known Bugs
 
+*border around images staying when screen size changes
 
 ## License
 <p><a href="LICENSE.txt">MIT</a></p>
