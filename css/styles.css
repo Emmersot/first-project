@@ -1,3 +1,19 @@
+.blue {
+  color: aquamarine;
+}
+
+
+.me {
+  float: center;
+  border: 2px solid rgb(0, 0, 0);
+  padding: 2px;
+  color: #ff6207; 
+  background-color: rgb(252, 233, 182);
+  width: auto;
+  height: auto;
+  text-align: center;
+}
+
 div.bar {
   box-sizing: border-box;
   margin: 0;
@@ -58,10 +74,6 @@ button {
 button:hover {
   background-color: rgb(252, 233, 182);
 }
-
-
-
-
 
 h1 {
   color: rgb(0, 0, 0);
